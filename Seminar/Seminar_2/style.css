@@ -1,0 +1,17 @@
+body{
+    background: orange;
+}
+.myHeder{
+    background: aqua;
+}
+.myHeder2{
+    background: brown;
+    color: aliceblue;
+}
+.myImage{
+    width: 400;
+}
+.link{
+    background: aquamarine;
+    color: chocolate;
+}
