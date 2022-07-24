@@ -1,0 +1,24 @@
+html {
+    font-size: 20px;
+    margin: auto;
+    background: blue;
+}
+
+body {
+    width: 500px;
+    margin: 0 auto;
+    background: antiquewhite;
+    padding: 0 20px 20px 20px;
+    border: 10px solid gray;
+}
+
+p,
+.myHeder {
+    font-family: 'Roboto', sans-serif;
+    padding: 20px;
+}
+
+ul {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Roboto', sans-serif;
+}
