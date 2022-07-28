@@ -1,5 +1,7 @@
-let name = "Привет " + prompt("Введите ваше имя")
-alert(name)
+confirm("BUUUUUU")
+
+// let name = "Привет " + prompt("Введите ваше имя")
+// alert(name)
 
 // let first = parseInt(prompt("Введите первое число"))
 // let second = parseInt(prompt("Введите второе число"))
