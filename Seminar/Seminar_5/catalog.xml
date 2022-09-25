@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<catalog>
+    <book>
+        <name>К Элизе</name>
+        <author>А. С. Пушкин</author>
+        <prise>1500 $</prise>
+        <year>1900</year>
+    </book>
+</catalog>
